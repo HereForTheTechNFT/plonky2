@@ -1,4 +1,8 @@
-# Plonky2 & more
+## Parcours francais jusqu a la recursion, est disponible dans docs/fr/README.md.
+
+
+
+Une lecture guidee de Plonky2, de Goldilocks et FRI # Plonky2 & more
 [![Discord](https://img.shields.io/discord/743511677072572486?logo=discord)](https://discord.gg/QZKRUpqCJ6)
 
 This repository was originally for Plonky2, a SNARK implementation based on techniques from PLONK and FRI. It has since expanded to include tools such as Starky, a highly performant STARK implementation.
